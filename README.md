@@ -23,7 +23,7 @@ The focus is on learning programming concepts while applying them in artistic, i
 ---
 
 ## 🛠️ Technologies
-- **Language/Framework**: (p5.js / Processing / JavaScript / Python)  
+- **Language/Framework**: (None Currently)  
 - **Editor/IDE**: (VS Code / Processing IDE / other)  
 - **Version Control**: Git + GitHub  
 
